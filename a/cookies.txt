@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+ruin.lol	TRUE	/	FALSE	1999999999	PHPSESSID	2st9d16ffobdqhucm916p5e1l3
+
